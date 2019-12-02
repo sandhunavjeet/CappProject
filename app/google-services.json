@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369208688289",
+    "firebase_url": "https://cappproject-67ddb.firebaseio.com",
+    "project_id": "cappproject-67ddb",
+    "storage_bucket": "cappproject-67ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369208688289:android:61fee49a400a605586bae0",
+        "android_client_info": {
+          "package_name": "com.example.cappproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369208688289-j9hf1ejiq49e9op9hv9orl8pq7mpeev9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXmkHvf0UAWi8P_6pd1We4SrtjQvZIQ5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369208688289-j9hf1ejiq49e9op9hv9orl8pq7mpeev9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
